@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Caio</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Livance**
+- 🤷🏽‍♂️ I’m currently working on Livance, which is a medical coworking in health tech area, as full stack developer, working with C#, Kubernetes, Flutter, SQL Server, Firebase, JavaScript and Google Cloud tools.
 
-- 🌱 I’m currently learning **.NET, microservices architecture and machine learning**
+- 📝 I used to write articles on **[Medium](https://medium.com/@caio.granero)**
 
-- 📝 I used to write articles on [https://medium.com/@caio.granero](https://medium.com/@caio.granero)
+- 🤓 See my complete courses at **[Pluralsight](https://app.pluralsight.com/profile/caio-granero)**
 
 - 📫 How to reach me **caio.granero@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/caiogranero/](https://www.linkedin.com/in/caiogranero/)
+- 📄 Know about my experiences at **[LinkedIn](https://www.linkedin.com/in/caiogranero/)**
+
+- 📕 Look the last books i read at **[Goodreads](https://www.goodreads.com/user/show/98174169-caio-granero)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiogranero&show_icons=true&locale=en&layout=compact" alt="caiogranero" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiogranero&show_icons=true&locale=en" alt="caiogranero" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiogranero&" alt="caiogranero" /></p>
