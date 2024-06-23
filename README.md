@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caio</h1>
 <h3 align="center">A full stack developer from Brazil</h3>
 
-- 🤷🏽‍♂️ I’m currently working on Livance, which is a medical coworking in health tech area, as full stack developer, working with C#, Kubernetes, Flutter, SQL Server, Firebase, JavaScript and Google Cloud tools.
+- 🤷🏽‍♂️ I’m currently working on ShipBob, which is a US based global ecommerce fulfillment for online stores, as senior software engineer, working with C# in a microservices infrastructure hosted in Azure.
 
 - 📝 I used to write articles on **[Medium](https://medium.com/@caio.granero)**
 
